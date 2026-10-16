@@ -1,0 +1,5 @@
+Kenney City Kit (Suburban) 2.0
+Models in this folder are from https://kenney.nl/assets/city-kit-suburban
+License: Creative Commons CC0 1.0 Universal (public domain dedication).
+Official license link: https://creativecommons.org/publicdomain/zero/1.0/
+Source mirror used for the GLB files: https://github.com/shorepine/kenney/tree/main/3d/city-suburban
